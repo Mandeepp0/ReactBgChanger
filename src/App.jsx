@@ -56,7 +56,7 @@ function App() {
             >black</button>
             <button className='outline-none bg-sky-400  px-4 py-1 rounded-full text-white shadow-lg hover:scale-105 duration-200 active:bg-slate-400 active:scale-95 active:text-black'
               onClick={() => setColor("skyblue")}
-            >skyblue</button>
+            >skyBlue</button>
             <button className='outline-none bg-orange-200 mb-5 px-4 py-4 rounded-full text-pink-600 shadow-lg hover:scale-105 duration-200 active:bg-slate-400 active:scale-95 active:text-black'
               onClick={() => ( setColor(randomClr))}
             >RANDOM</button>
